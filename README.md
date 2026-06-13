@@ -1,6 +1,6 @@
 # Customer Churn Prediction & Retention Framework
 
-## 📌 Project Overview
+## Project Overview
 
 Customer Churn Prediction & Retention Framework is a Machine Learning project developed to identify customers who are likely to discontinue a company's services. The project analyzes customer behavior, service usage patterns, contract details, and payment information to predict churn and help businesses improve customer retention.
 
@@ -8,7 +8,7 @@ The framework combines Data Preprocessing, Exploratory Data Analysis (EDA), and 
 
 ---
 
-## 👨‍🎓 Project Information
+## Project Information
 
 **Project Title:** Customer Churn Prediction & Retention Framework
 
@@ -22,7 +22,7 @@ The framework combines Data Preprocessing, Exploratory Data Analysis (EDA), and 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Identify customers who are likely to churn.
 - Analyze factors influencing customer churn.
@@ -32,7 +32,7 @@ The framework combines Data Preprocessing, Exploratory Data Analysis (EDA), and 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Google Colab
@@ -45,7 +45,7 @@ The framework combines Data Preprocessing, Exploratory Data Analysis (EDA), and 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Dataset Used:
 
@@ -69,7 +69,7 @@ Dataset contains:
 
 ---
 
-## 🔄 Data Preprocessing
+##  Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -83,7 +83,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Several visualizations were created to understand customer behavior.
 
@@ -107,7 +107,7 @@ Several visualizations were created to understand customer behavior.
 
 ---
 
-## 📈 Churn Analysis
+##  Churn Analysis
 
 ### Churn Rate by Contract Type
 - Highest churn among Month-to-Month customers
@@ -128,7 +128,7 @@ Several visualizations were created to understand customer behavior.
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 ### Support Vector Machine (SVM)
 
@@ -159,7 +159,7 @@ Support Vector Machine is a supervised machine learning algorithm used for class
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Customer-Churn-Prediction/
@@ -188,7 +188,7 @@ Customer-Churn-Prediction/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Clone Repository
 
@@ -218,7 +218,7 @@ or open notebooks directly in Google Colab.
 
 ---
 
-## 📋 Workflow
+##  Workflow
 
 1. Data Collection
 2. Data Cleaning
@@ -232,7 +232,7 @@ or open notebooks directly in Google Colab.
 
 ---
 
-## 📌 Results
+## Results
 
 - Successfully analyzed customer churn patterns.
 - Identified major churn factors.
@@ -242,7 +242,7 @@ or open notebooks directly in Google Colab.
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
 - Deploy model using Flask or Streamlit.
 - Create real-time prediction dashboard.
@@ -255,7 +255,7 @@ or open notebooks directly in Google Colab.
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, the following skills were developed:
 
@@ -266,23 +266,3 @@ Through this project, the following skills were developed:
 - Support Vector Machine
 - Customer Behavior Analysis
 - Business Analytics
-
----
-
-## 👨‍💻 Author
-
-### Boda Dhanesh
-
-B.Tech Computer Science & Engineering
-
-Ganpat University
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## 📜 License
-
-This project is developed for educational and academic purposes only.
