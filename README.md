@@ -6,7 +6,7 @@ Customer Churn Prediction & Retention Framework is a Machine Learning project de
 
 The framework combines Data Preprocessing, Exploratory Data Analysis (EDA), and Machine Learning techniques to generate insights and predict customer churn effectively.
 
----
+--
 
 ## Project Information
 
